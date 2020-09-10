@@ -12,3 +12,5 @@
     - list1-1-2
   - nest1-2
 - list2
+1. num list
+2. num list
